@@ -1,2 +1,7 @@
 i am working lab exprinents [D[D[D[D[m[C[C[C[C[C
+<<<<<<< HEAD
 nagaraj[D[D[D[D[D[D[D[Di am nagaraj 
+=======
+i am working lab exprinents b2
+>>>>>>> 90f351b944d56e63885e5770a636799087c54692
+i am nagu 
